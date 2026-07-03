@@ -1,0 +1,6 @@
+﻿glicose,imc,idade,gestacoes,historico_familiar,classificacao,probabilidade,relatorio_llm
+140,32,45,2,0.5,DIABÉTICO,62.82,"Erro ao gerar relatório clínico: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download"
+90,22,25,0,0.2,NÃO DIABÉTICO,25.11,"Erro ao gerar relatório clínico: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download"
+180,35,50,4,0.8,DIABÉTICO,63.07,"Erro ao gerar relatório clínico: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download"
+220,25,32,0,1.0,DIABÉTICO,51.79,"Erro ao gerar relatório clínico: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download"
+70,25,18,0,0.5,NÃO DIABÉTICO,20.62,"Erro ao gerar relatório clínico: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download"
