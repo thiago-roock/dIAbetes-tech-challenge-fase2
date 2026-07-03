@@ -1,6 +1,4 @@
 # 🧠 dIAbetes - Diagnóstico de Diabetes com Algoritmos Genéticos e LLM
-![CodeQL](https://github.com/thiago-roock/dIAbetes-tech-challenge-fase2/workflows/CodeQL/badge.svg)
-
 
 ![Capa do projeto](./dIAbetes.png)
 
