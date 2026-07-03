@@ -145,7 +145,6 @@ dIAbetes/
 ├── dataset/         # Base de dados utilizada
 ├── notebook/        # código fonte completo e documentado
 ├── resultados/      # Gráficos, métricas e análises
-├── relatorio-tecnico/   # Explicações detalhadas reforçando o código
 ├── video-demonstracao/   # Vídeo do funcionamento
 ├── requirements.txt     # lista de todas bibliotecas usadas
 ├── README.md # com instruções sobre o projeto
